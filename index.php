@@ -33,7 +33,7 @@
 
          <?php
 
-         shell_exec("gpio -g mode 17 out");
+         
 
          if(isset($_GET['leg1']))
 
